@@ -1885,7 +1885,7 @@ a.overlay:hover {
 	background-color: rgba(255,255,255,0);
 }
 .overlay.light-1 {
-	background-color: rgba(255,255,255,.1);
+	background-color: rgb(46, 72, 160);
 }
 .overlay.light-2 {
 	background-color: rgba(255,255,255,.2);
@@ -3419,7 +3419,7 @@ img.mfp-img {
 	#progressBar #bar {
 		height:3px;
 		width: 100%;
-		background-color:#333;
+		background-color:rgb(59, 91, 160);
 	}
 
 /* mouse grab icon */

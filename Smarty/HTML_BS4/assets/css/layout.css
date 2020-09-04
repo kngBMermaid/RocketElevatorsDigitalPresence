@@ -287,7 +287,7 @@ section header.section-header {
 		padding:140px 0;
 	}
 	section.dark a {
-		color:#999;
+		color:rgb(35, 65, 119);
 	}
 	section.parallax {
 		border:0;
